@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e7797db-b22b-476a-9f94-8ca526e0f347" name="Default Changelist" comment="" />
+    <list default="true" id="5e7797db-b22b-476a-9f94-8ca526e0f347" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/42.trapping-rain-water.py" beforeDir="false" afterPath="$PROJECT_DIR$/42.trapping-rain-water.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZUPaZKy2k3OimoSKroSx8GRtaP" />
   <component name="ProjectViewState">
@@ -23,7 +29,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -58,6 +64,8 @@
       <workItem from="1584890772925" duration="611000" />
       <workItem from="1587056309599" duration="401000" />
       <workItem from="1587057175844" duration="1938000" />
+      <workItem from="1590680789841" duration="330000" />
+      <workItem from="1590681129551" duration="734000" />
     </task>
     <servers />
   </component>
@@ -65,14 +73,16 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="374" y="175" key="SettingsEditor" timestamp="1587057270754">
-      <screen x="71" y="23" width="1609" height="1027" />
+    <state x="316" y="155" width="1239" height="722" key="SettingsEditor" timestamp="1590681805201">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="316" y="155" width="1239" height="722" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1590681805201" />
     <state x="374" y="175" key="SettingsEditor/71.23.1609.1027@71.23.1609.1027" timestamp="1587057270754" />
     <state x="381" y="175" key="SettingsEditor/80.23.1600.1027@80.23.1600.1027" timestamp="1585324072051" />
-    <state x="551" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1587057176303">
-      <screen x="71" y="23" width="1609" height="1027" />
+    <state x="501" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1590681207805">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="501" y="354" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590681207805" />
     <state x="551" y="369" key="com.intellij.ide.util.TipDialog/71.23.1609.1027@71.23.1609.1027" timestamp="1587057176303" />
     <state x="557" y="369" key="com.intellij.ide.util.TipDialog/80.23.1600.1027@80.23.1600.1027" timestamp="1584890779494" />
   </component>
